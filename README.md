@@ -54,6 +54,7 @@ You will have to guess a word by clicking the letter boxes on the screen before 
 ## Blog with API
 Created a Blog from JSONplaceholder server using Twitter designed framework Bootstrap.
 [See full project demo & sours code](blog_with_API)
+
 <img src='./blog_with_API/assets/readmePreview.jpg' width='600' alt='Project Blog using API jsonplaceholder.typicode.com'>
 
 
