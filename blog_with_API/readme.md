@@ -30,8 +30,10 @@ npm install
 
 ## Run local database
 
+Install JSON Server
+
 ```bash
-cd blog_with_API
+npm install -g json-server
 json-server --watch db.json
 ```
 
