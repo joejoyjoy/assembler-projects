@@ -1,9 +1,20 @@
 {
+  "name": "blog_with_api",
+  "version": "1.0.0",
+  "description": "Blog created with JSONplaceholder API and bootstrap style",
+  "main": "index.html",
   "scripts": {
-    "db": "json-server --watch db.json"
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-
-  "dependencies": {
-    "bootstrap": "^5.2.3"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joejoyjoy/assembler-projects.git#main"
+  },
+  "author": "Joe and Pablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joejoyjoy/assembler-projects/issues"
+  },
+  "homepage": "https://github.com/joejoyjoy/assembler-projects/tree/main#readme"
 }
