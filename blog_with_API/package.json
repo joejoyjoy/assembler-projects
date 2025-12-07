@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joejoyjoy/assembler-projects/issues"
   },
-  "homepage": "https://github.com/joejoyjoy/assembler-projects/tree/main#readme"
+  "homepage": "https://github.com/joejoyjoy/assembler-projects/tree/main#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
 }
